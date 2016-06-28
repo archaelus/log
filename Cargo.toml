@@ -34,3 +34,6 @@ release_max_level_trace = []
 nightly = []
 use_std = []
 default = ["use_std"]
+
+[dependencies.rust-libcore]
+version = "*"
